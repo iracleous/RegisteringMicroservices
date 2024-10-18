@@ -1,0 +1,6 @@
+@Consumer_HostAddress = https://localhost:7254
+
+GET {{Consumer_HostAddress}}/Consumer/consume
+Accept: application/json
+
+###
